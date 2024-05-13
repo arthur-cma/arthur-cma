@@ -3,7 +3,7 @@
 
 - 💻 Atualmente, estou trabalhando no [Sumaré Roleplay](https://sumarerp.vercel.app/)
 
-- 🌱 Atualmente estou aprendendo **Luau**
+- 🌱 Atualmente estou aprendendo **Lua**
 
 - 🤝 Faço vídeos sobre meus projetos em meu [canal](https://www.youtube.com/channel/UC0BuvEqhII1reLpPtzjqueQ)
 
