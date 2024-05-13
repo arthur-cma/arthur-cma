@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Arthur C.</h1>
 <h3 align="center">Um programador iniciante</h3>
 
-- 💻 Atualmente, estou trabalhando no [Sumaré Roleplay](https://sumarerp.vercel.app/)
+- 💻 Trabalhando no [Sumaré Roleplay](https://sumarerp.vercel.app/)
 
 - 🌱 Atualmente estou aprendendo **Lua**
 
